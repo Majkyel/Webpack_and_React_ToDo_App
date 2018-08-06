@@ -1,4 +1,4 @@
-# FIRST_WEBPACK_CONFIGURATION
+# WEBPACK_AND_REACT_TODO_APP
 
 I started create ToDo application.
 
